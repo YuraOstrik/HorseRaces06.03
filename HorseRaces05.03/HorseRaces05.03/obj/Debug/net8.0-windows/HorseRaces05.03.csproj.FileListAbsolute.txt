@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\bin\Debug\net8.0-windows\HorseRaces05.03.exe
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\bin\Debug\net8.0-windows\HorseRaces05.03.deps.json
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\bin\Debug\net8.0-windows\HorseRaces05.03.runtimeconfig.json
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\bin\Debug\net8.0-windows\HorseRaces05.03.dll
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\bin\Debug\net8.0-windows\HorseRaces05.03.pdb
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05._03.Form1.resources
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.AssemblyInfo.cs
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.dll
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\refint\HorseRaces05.03.dll
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.pdb
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\HorseRaces05.03.genruntimeconfig.cache
+C:\Users\User\source\repos\HorseRaces05.03\HorseRaces05.03\obj\Debug\net8.0-windows\ref\HorseRaces05.03.dll
